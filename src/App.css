@@ -1,1 +1,18 @@
+.container{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
 
+
+.digital-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 315px;
+    height: 800px;
+    border-radius: 10px;
+    background-color: #1A1B21;
+}
