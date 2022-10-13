@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/Info.css";
+import "../styles/Info.module.css";
 import pfp from "../images/pfp1.jpg";
 
 function Info() {
