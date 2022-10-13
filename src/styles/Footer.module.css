@@ -1,0 +1,19 @@
+.footerContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    object-position: bottom;
+    background-color: #161619;
+    height: 64px;
+    width: 315px;
+    border-radius: 0px 0px 10px 10px;
+    gap: 20px;
+}
+
+.iconContainer {
+    width: 25px;
+    height: 25px;
+}
+
+

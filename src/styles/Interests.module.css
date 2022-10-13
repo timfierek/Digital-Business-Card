@@ -1,0 +1,19 @@
+.Interests {
+    justify-content: left;
+    padding: 0px 35px;
+}
+
+.interestsHeader {
+    margin: 0;
+    color: #F5F5F5;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.interestsText {
+    margin: 0;
+    color: #DCDCDC;
+    font-size: 10.24px;
+    font-weight: 400;
+    line-height: 150%;
+}
