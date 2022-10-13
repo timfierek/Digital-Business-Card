@@ -1,5 +1,5 @@
 import React from "react";
-import '../styles/Interests.css';
+import classes from '../styles/Interests.module.css';
 
 function Interests(){
     return(

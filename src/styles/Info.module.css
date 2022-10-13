@@ -34,7 +34,7 @@ h3 {
     margin-top: 10px;
 }
 
-.buttons-container {
+.buttonsContainer {
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -42,13 +42,13 @@ h3 {
     gap: 20px;
 }
 
-.buttons-container a p {
+.buttonsContainer a p {
     font-size: 14px;
     font-weight: 500;
     padding-left: 10px;
 }
 
-.email-button {
+.emailButton {
     box-sizing: border-box;
     border-radius: 6px;
     border: white 1px solid;
@@ -66,7 +66,7 @@ h3 {
     color: #1E1F26;
 }
 
-.linkedin-button {
+.linkedinButton {
     background-color: #5093E2;
     text-decoration: none;
     color: white;
@@ -82,13 +82,13 @@ h3 {
     height: 34px;
 }
 
-.email-button:hover {
+.emailButton:hover {
     background-color: black;
     color: #5093E2;
     border: 0pt;
 }
 
-.linkedin-button:hover {
+.linkedinButton:hover {
     background-color: white;
     color: #5093E2;
 }

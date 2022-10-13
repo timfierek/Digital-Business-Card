@@ -1,4 +1,8 @@
-.About > h2 {
+.About {
+    justify-content: left;
+}
+
+.aboutHeader {
     margin: 0;
     color: #F5F5F5;
     font-weight: 700;
@@ -6,7 +10,7 @@
     
 }
 
-.About > p {
+.aboutText {
     margin: 0;
     color: #DCDCDC;
     font-size: 10.24px;
@@ -14,6 +18,3 @@
     line-height: 150%;
 }
 
-.About {
-    justify-content: left;
-}
